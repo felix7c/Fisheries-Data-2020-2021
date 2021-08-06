@@ -1,0 +1,2 @@
+# Fisheries-Data-2020-2021
+Some code I used in my dissertation in order to analyse a real-life fisheries dataset. After importing, cleaning and processing the data, I created linear regression models for each of the 25 geographical locations in the dataset and use these to compare predator-prey mass relationships between the locations. I also compared the predator-prey mass ratio (PPMR) between different species, and used phylogenetic information for each species to investigate the correlation between predator phylogeny and their prey consumption habits.
